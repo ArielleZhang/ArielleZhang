@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/arielle-junrui-zhang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arielle-zhang-89b8691b3" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ariellez.3727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ariellez.3727" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCfz9h64IQP3QCiNOQbWXfCA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ariellez.3727" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/704877114813579265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Arielle#9250" height="30" width="40" /></a>
 </p>
 
