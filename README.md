@@ -1,6 +1,6 @@
 
 <h2 align="center">Hi, I'm Arielle Zhang</h2>
-<h3 align="center">I'm an EngSci 😎! That means I am good at cramming, crying, and doing research.</h3>
+<h3 align="center">I'm an EngSci 😎!</h3>
 
 <img src="https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Monoceros_Caeli_Shape.png/revision/latest?cb=20220506220923" width="200" align="right">
 
